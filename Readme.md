@@ -2,6 +2,9 @@
 
 > 🚨 **This code is directly related to the manuscript currently submitted to _The Visual Computer_ journal.**
 
+> 📢 **If you use this code or build upon it, please cite the corresponding manuscript to acknowledge the original authors' work.**
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15838967.svg)](https://doi.org/10.5281/zenodo.15838967)
 ---
 
 
