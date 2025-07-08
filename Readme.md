@@ -1,3 +1,10 @@
+# Enhanced Image Denoising via Color Component Decomposition and Bit-Plane Specific CNN Models
+
+> 🚨 **This code is directly related to the manuscript currently submitted to _The Visual Computer_ journal.**
+
+---
+
+
 # Image Denoising Project
 
 This repository contains CCDDNet, a deep learning-based model for bit-plane specific image denoising. It trains and denoises each RGB component separately using TensorFlow and OpenCV. All dependencies are listed in `requirements.txt`.
